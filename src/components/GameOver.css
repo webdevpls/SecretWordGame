@@ -1,0 +1,11 @@
+h2 span {
+    color: rgb(0, 255, 98);
+    font-size: 1.5em;
+  }
+
+  .gameover{
+    margin-top: 300px;
+    background-color: #012407;
+    padding: 50px;
+    border-radius: 50px;
+  }
